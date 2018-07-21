@@ -74,7 +74,6 @@ festa in cui si mangiava e si beveva. Molti, che appartenevano ad altri
 popoli, per paura si fecero Ebrei.
 
 <sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup>
-
 di bisso, una stoffa luccicante
 
 ---------------------------------------

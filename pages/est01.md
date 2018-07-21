@@ -1,5 +1,10 @@
-### 1
+---
+layout: page
+title: 1
+---
+[<-indietro](est00.html) [avanti ->](est02.html)
 
+--------------------------------
 #### La festa del re
 
 <sup>1-3</sup> I fatti qui raccontati avvennero in Persia, durante il
@@ -75,5 +80,5 @@ provincia, tradotto nella lingua di ogni popolazione e trascritto nella
 scrittura locale. Stabiliva così che l'uomo doveva essere il capo in
 ogni famiglia e imporre l'uso della sua lingua madre.
 
-<a href="est00.html" class="wikilink1" title="est00">&lt;-indietro</a>
-<a href="est02.html" class="wikilink1" title="est02">avanti -&gt;</a>
+---------------------------------------
+[<-indietro](est00.html) [avanti ->](est02.html)

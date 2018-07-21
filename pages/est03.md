@@ -67,8 +67,8 @@ Appena il decreto fu promulgato a Susa, il re e Aman andarono a
 banchettare, mentre la capitale era in grande agitazione.
 
 
+--------------------------------
 <sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup>
-
 una cifra enorme, che per gran parte poteva arrivare dal sequestro dei
 beni degli ebrei
 

@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Il libro di Daniele
+title: Il libro di Ester
 description: v.20180720
 ---
-
-*<a href="http://www.pachialu.it" class="urlextern" title="http://www.pachialu.it">www.pachialu.it</a>
-- &ltv.20180720&gt;*
 
 Questa storia drammatica racconta di Aman, ministro del re Assuero, re
 di Persia, e del suo malvagio progetto di distruggere tutti gli Ebrei
